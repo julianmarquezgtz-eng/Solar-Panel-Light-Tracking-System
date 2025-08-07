@@ -38,4 +38,4 @@ Once the code is uploaded to the ESP32, the system will start adjusting the sola
 
 Julián Márquez Gutiérrez
 Email: julianmarquezgtz@gmail.com  
-GitHub: julianmarquezgtz-eng(https://github.com/julianmarquezgtz-eng)
+GitHub: julianmarquezgtz-eng (https://github.com/julianmarquezgtz-eng)
